@@ -1,8 +1,8 @@
-# _Python Fundamentals Code Review_
+# _Python Intermediate Code Review (11.10.22)_
 
 #### By _**Luke Callahan**_
 
-#### _Demonstrating competency in writing functions for lists, tuples, and dictionaries_
+#### _Demonstrating competency in writing functions and classes, with docstrings and type hints.
 
 ## Technologies Used
 
@@ -12,14 +12,14 @@
 
 ## Description
 
-* Simple python functions working with lists, tuples, and dictionaries.
+* Simple python functions working with functions, lambdas, and classes.
 
 ## Setup/Installation Requirements
 
 * _Git clone the repository
 * cd into the new directory
 * open your CLI of choice
-* run main.py
+* open main.ipynb in your IDE of choice.
 
 ## Known Bugs
 
